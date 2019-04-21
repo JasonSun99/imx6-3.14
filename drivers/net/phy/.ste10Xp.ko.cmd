@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/ste10Xp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/ste10Xp.ko drivers/net/phy/ste10Xp.o drivers/net/phy/ste10Xp.mod.o

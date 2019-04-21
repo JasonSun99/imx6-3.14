@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/ttpci/dvb-ttpci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/ttpci/dvb-ttpci.ko drivers/media/pci/ttpci/dvb-ttpci.o drivers/media/pci/ttpci/dvb-ttpci.mod.o

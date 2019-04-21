@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-bq32k.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/rtc/rtc-bq32k.ko drivers/rtc/rtc-bq32k.o drivers/rtc/rtc-bq32k.mod.o

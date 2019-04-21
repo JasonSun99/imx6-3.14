@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/gl518sm.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/gl518sm.ko drivers/hwmon/gl518sm.o drivers/hwmon/gl518sm.mod.o

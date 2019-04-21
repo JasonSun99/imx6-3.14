@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/ttpci/budget.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/ttpci/budget.ko drivers/media/pci/ttpci/budget.o drivers/media/pci/ttpci/budget.mod.o

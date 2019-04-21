@@ -1,0 +1,1 @@
+cmd_net/sunrpc/xprtrdma/xprtrdma.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/sunrpc/xprtrdma/xprtrdma.ko net/sunrpc/xprtrdma/xprtrdma.o net/sunrpc/xprtrdma/xprtrdma.mod.o

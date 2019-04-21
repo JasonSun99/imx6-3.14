@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-saitek.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-saitek.ko drivers/hid/hid-saitek.o drivers/hid/hid-saitek.mod.o

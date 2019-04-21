@@ -1,0 +1,1 @@
+cmd_sound/drivers/opl3/snd-opl3-synth.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/drivers/opl3/snd-opl3-synth.ko sound/drivers/opl3/snd-opl3-synth.o sound/drivers/opl3/snd-opl3-synth.mod.o

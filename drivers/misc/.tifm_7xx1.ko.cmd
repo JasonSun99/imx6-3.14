@@ -1,0 +1,1 @@
+cmd_drivers/misc/tifm_7xx1.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/tifm_7xx1.ko drivers/misc/tifm_7xx1.o drivers/misc/tifm_7xx1.mod.o

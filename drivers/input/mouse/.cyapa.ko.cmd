@@ -1,0 +1,1 @@
+cmd_drivers/input/mouse/cyapa.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/mouse/cyapa.ko drivers/input/mouse/cyapa.o drivers/input/mouse/cyapa.mod.o

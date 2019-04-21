@@ -1,0 +1,1 @@
+cmd_sound/pci/snd-maestro3.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/snd-maestro3.ko sound/pci/snd-maestro3.o sound/pci/snd-maestro3.mod.o

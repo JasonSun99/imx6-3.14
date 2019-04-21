@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/sdricoh_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/mmc/host/sdricoh_cs.ko drivers/mmc/host/sdricoh_cs.o drivers/mmc/host/sdricoh_cs.mod.o

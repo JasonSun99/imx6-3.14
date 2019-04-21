@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hardware/mISDN/hfcmulti.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hardware/mISDN/hfcmulti.ko drivers/isdn/hardware/mISDN/hfcmulti.o drivers/isdn/hardware/mISDN/hfcmulti.mod.o

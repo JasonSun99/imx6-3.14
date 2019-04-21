@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/emc6w201.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/emc6w201.ko drivers/hwmon/emc6w201.o drivers/hwmon/emc6w201.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/hid-sensor-accel-3d.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/accel/hid-sensor-accel-3d.ko drivers/iio/accel/hid-sensor-accel-3d.o drivers/iio/accel/hid-sensor-accel-3d.mod.o

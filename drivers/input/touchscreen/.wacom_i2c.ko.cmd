@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/wacom_i2c.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/touchscreen/wacom_i2c.ko drivers/input/touchscreen/wacom_i2c.o drivers/input/touchscreen/wacom_i2c.mod.o

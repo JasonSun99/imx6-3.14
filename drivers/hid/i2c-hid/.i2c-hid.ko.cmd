@@ -1,0 +1,1 @@
+cmd_drivers/hid/i2c-hid/i2c-hid.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/i2c-hid/i2c-hid.ko drivers/hid/i2c-hid/i2c-hid.o drivers/hid/i2c-hid/i2c-hid.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/lm95245.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/lm95245.ko drivers/hwmon/lm95245.o drivers/hwmon/lm95245.mod.o

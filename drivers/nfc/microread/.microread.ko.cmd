@@ -1,0 +1,1 @@
+cmd_drivers/nfc/microread/microread.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/nfc/microread/microread.ko drivers/nfc/microread/microread.o drivers/nfc/microread/microread.mod.o

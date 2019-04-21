@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_conntrack_snmp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netfilter/nf_conntrack_snmp.ko net/netfilter/nf_conntrack_snmp.o net/netfilter/nf_conntrack_snmp.mod.o

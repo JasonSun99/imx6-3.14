@@ -1,0 +1,1 @@
+cmd_drivers/isdn/i4l/isdn.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/i4l/isdn.ko drivers/isdn/i4l/isdn.o drivers/isdn/i4l/isdn.mod.o

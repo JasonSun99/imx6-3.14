@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/wcn36xx/wcn36xx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/wcn36xx/wcn36xx.ko drivers/net/wireless/ath/wcn36xx/wcn36xx.o drivers/net/wireless/ath/wcn36xx/wcn36xx.mod.o

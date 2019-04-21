@@ -1,0 +1,1 @@
+cmd_sound/pci/ali5451/snd-ali5451.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/ali5451/snd-ali5451.ko sound/pci/ali5451/snd-ali5451.o sound/pci/ali5451/snd-ali5451.mod.o

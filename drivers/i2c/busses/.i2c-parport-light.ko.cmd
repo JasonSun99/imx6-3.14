@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/i2c-parport-light.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/i2c/busses/i2c-parport-light.ko drivers/i2c/busses/i2c-parport-light.o drivers/i2c/busses/i2c-parport-light.mod.o

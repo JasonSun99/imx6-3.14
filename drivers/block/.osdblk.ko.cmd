@@ -1,0 +1,1 @@
+cmd_drivers/block/osdblk.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/block/osdblk.ko drivers/block/osdblk.o drivers/block/osdblk.mod.o

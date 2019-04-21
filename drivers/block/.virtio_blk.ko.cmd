@@ -1,0 +1,1 @@
+cmd_drivers/block/virtio_blk.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/block/virtio_blk.ko drivers/block/virtio_blk.o drivers/block/virtio_blk.mod.o

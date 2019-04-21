@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hifn_795x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/crypto/hifn_795x.ko drivers/crypto/hifn_795x.o drivers/crypto/hifn_795x.mod.o

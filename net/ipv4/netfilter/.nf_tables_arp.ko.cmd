@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_tables_arp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/ipv4/netfilter/nf_tables_arp.ko net/ipv4/netfilter/nf_tables_arp.o net/ipv4/netfilter/nf_tables_arp.mod.o

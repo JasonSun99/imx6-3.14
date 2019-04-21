@@ -1,0 +1,1 @@
+cmd_drivers/misc/lis3lv02d/lis3lv02d_spi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/lis3lv02d/lis3lv02d_spi.ko drivers/misc/lis3lv02d/lis3lv02d_spi.o drivers/misc/lis3lv02d/lis3lv02d_spi.mod.o

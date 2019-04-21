@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/3com/typhoon.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/3com/typhoon.ko drivers/net/ethernet/3com/typhoon.o drivers/net/ethernet/3com/typhoon.mod.o

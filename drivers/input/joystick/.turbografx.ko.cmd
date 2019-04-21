@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/turbografx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/turbografx.ko drivers/input/joystick/turbografx.o drivers/input/joystick/turbografx.mod.o

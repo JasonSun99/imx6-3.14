@@ -1,0 +1,1 @@
+cmd_drivers/scsi/osd/libosd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/scsi/osd/libosd.ko drivers/scsi/osd/libosd.o drivers/scsi/osd/libosd.mod.o

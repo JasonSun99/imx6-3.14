@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ibmaem.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/ibmaem.ko drivers/hwmon/ibmaem.o drivers/hwmon/ibmaem.mod.o

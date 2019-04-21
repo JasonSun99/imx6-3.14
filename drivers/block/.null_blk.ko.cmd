@@ -1,0 +1,1 @@
+cmd_drivers/block/null_blk.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/block/null_blk.ko drivers/block/null_blk.o drivers/block/null_blk.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_cmd640.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_cmd640.ko drivers/ata/pata_cmd640.o drivers/ata/pata_cmd640.mod.o

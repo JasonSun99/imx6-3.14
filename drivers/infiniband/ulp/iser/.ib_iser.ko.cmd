@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/ulp/iser/ib_iser.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/ulp/iser/ib_iser.ko drivers/infiniband/ulp/iser/ib_iser.o drivers/infiniband/ulp/iser/ib_iser.mod.o

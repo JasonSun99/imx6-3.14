@@ -1,0 +1,1 @@
+cmd_sound/core/seq/snd-seq-midi-emul.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/core/seq/snd-seq-midi-emul.ko sound/core/seq/snd-seq-midi-emul.o sound/core/seq/snd-seq-midi-emul.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/isdn/divert/dss1_divert.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/divert/dss1_divert.ko drivers/isdn/divert/dss1_divert.o drivers/isdn/divert/dss1_divert.mod.o

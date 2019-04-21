@@ -1,0 +1,1 @@
+cmd_drivers/usb/wusbcore/wusb-wa.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/wusbcore/wusb-wa.ko drivers/usb/wusbcore/wusb-wa.o drivers/usb/wusbcore/wusb-wa.mod.o

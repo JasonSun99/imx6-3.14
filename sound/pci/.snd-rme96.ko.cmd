@@ -1,0 +1,1 @@
+cmd_sound/pci/snd-rme96.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/snd-rme96.ko sound/pci/snd-rme96.o sound/pci/snd-rme96.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/aer/aer_inject.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/pci/pcie/aer/aer_inject.ko drivers/pci/pcie/aer/aer_inject.o drivers/pci/pcie/aer/aer_inject.mod.o

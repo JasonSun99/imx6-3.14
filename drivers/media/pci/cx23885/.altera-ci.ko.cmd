@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/cx23885/altera-ci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/cx23885/altera-ci.ko drivers/media/pci/cx23885/altera-ci.o drivers/media/pci/cx23885/altera-ci.mod.o

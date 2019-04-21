@@ -1,0 +1,1 @@
+cmd_drivers/auxdisplay/ks0108.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/auxdisplay/ks0108.ko drivers/auxdisplay/ks0108.o drivers/auxdisplay/ks0108.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/pcmcia/yenta_socket.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/pcmcia/yenta_socket.ko drivers/pcmcia/yenta_socket.o drivers/pcmcia/yenta_socket.mod.o

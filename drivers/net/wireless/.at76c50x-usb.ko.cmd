@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/at76c50x-usb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/at76c50x-usb.ko drivers/net/wireless/at76c50x-usb.o drivers/net/wireless/at76c50x-usb.mod.o

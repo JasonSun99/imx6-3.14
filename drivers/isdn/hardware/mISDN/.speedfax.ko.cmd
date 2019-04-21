@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hardware/mISDN/speedfax.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hardware/mISDN/speedfax.ko drivers/isdn/hardware/mISDN/speedfax.o drivers/isdn/hardware/mISDN/speedfax.mod.o

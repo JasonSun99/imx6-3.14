@@ -1,0 +1,1 @@
+cmd_sound/pci/au88x0/snd-au8810.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/au88x0/snd-au8810.ko sound/pci/au88x0/snd-au8810.o sound/pci/au88x0/snd-au8810.mod.o

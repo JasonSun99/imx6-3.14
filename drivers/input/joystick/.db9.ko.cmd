@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/db9.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/db9.ko drivers/input/joystick/db9.o drivers/input/joystick/db9.mod.o

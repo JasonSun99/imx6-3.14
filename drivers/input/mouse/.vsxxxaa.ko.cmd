@@ -1,0 +1,1 @@
+cmd_drivers/input/mouse/vsxxxaa.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/mouse/vsxxxaa.ko drivers/input/mouse/vsxxxaa.o drivers/input/mouse/vsxxxaa.mod.o

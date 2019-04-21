@@ -1,0 +1,1 @@
+cmd_net/rds/rds_rdma.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/rds/rds_rdma.ko net/rds/rds_rdma.o net/rds/rds_rdma.mod.o

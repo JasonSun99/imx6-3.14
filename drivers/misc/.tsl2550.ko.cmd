@@ -1,0 +1,1 @@
+cmd_drivers/misc/tsl2550.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/tsl2550.ko drivers/misc/tsl2550.o drivers/misc/tsl2550.mod.o

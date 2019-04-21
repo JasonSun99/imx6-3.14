@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/neterion/vxge/vxge.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/neterion/vxge/vxge.ko drivers/net/ethernet/neterion/vxge/vxge.o drivers/net/ethernet/neterion/vxge/vxge.mod.o

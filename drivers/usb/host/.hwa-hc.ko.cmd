@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/hwa-hc.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/host/hwa-hc.ko drivers/usb/host/hwa-hc.o drivers/usb/host/hwa-hc.mod.o

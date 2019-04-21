@@ -1,0 +1,1 @@
+cmd_drivers/memstick/host/jmb38x_ms.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/memstick/host/jmb38x_ms.ko drivers/memstick/host/jmb38x_ms.o drivers/memstick/host/jmb38x_ms.mod.o

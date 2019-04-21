@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_etoms.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/gspca/gspca_etoms.ko drivers/media/usb/gspca/gspca_etoms.o drivers/media/usb/gspca/gspca_etoms.mod.o

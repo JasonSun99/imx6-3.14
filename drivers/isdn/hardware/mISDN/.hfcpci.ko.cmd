@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hardware/mISDN/hfcpci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hardware/mISDN/hfcpci.ko drivers/isdn/hardware/mISDN/hfcpci.o drivers/isdn/hardware/mISDN/hfcpci.mod.o

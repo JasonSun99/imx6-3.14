@@ -1,0 +1,1 @@
+cmd_sound/pci/oxygen/snd-virtuoso.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/oxygen/snd-virtuoso.ko sound/pci/oxygen/snd-virtuoso.o sound/pci/oxygen/snd-virtuoso.mod.o

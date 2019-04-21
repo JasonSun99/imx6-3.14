@@ -1,0 +1,1 @@
+cmd_drivers/tty/n_r3964.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/n_r3964.ko drivers/tty/n_r3964.o drivers/tty/n_r3964.mod.o

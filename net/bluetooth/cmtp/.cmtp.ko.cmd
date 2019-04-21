@@ -1,0 +1,1 @@
+cmd_net/bluetooth/cmtp/cmtp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/bluetooth/cmtp/cmtp.ko net/bluetooth/cmtp/cmtp.o net/bluetooth/cmtp/cmtp.mod.o

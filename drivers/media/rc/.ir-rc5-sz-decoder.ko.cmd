@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ir-rc5-sz-decoder.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/rc/ir-rc5-sz-decoder.ko drivers/media/rc/ir-rc5-sz-decoder.o drivers/media/rc/ir-rc5-sz-decoder.mod.o

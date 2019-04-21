@@ -1,0 +1,1 @@
+cmd_sound/pci/snd-cs4281.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/snd-cs4281.ko sound/pci/snd-cs4281.o sound/pci/snd-cs4281.mod.o

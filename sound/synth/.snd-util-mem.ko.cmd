@@ -1,0 +1,1 @@
+cmd_sound/synth/snd-util-mem.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/synth/snd-util-mem.ko sound/synth/snd-util-mem.o sound/synth/snd-util-mem.mod.o

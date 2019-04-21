@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_oldpiix.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_oldpiix.ko drivers/ata/pata_oldpiix.o drivers/ata/pata_oldpiix.mod.o

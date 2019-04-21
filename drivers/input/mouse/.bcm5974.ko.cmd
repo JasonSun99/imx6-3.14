@@ -1,0 +1,1 @@
+cmd_drivers/input/mouse/bcm5974.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/mouse/bcm5974.ko drivers/input/mouse/bcm5974.o drivers/input/mouse/bcm5974.mod.o

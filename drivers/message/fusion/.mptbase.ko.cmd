@@ -1,0 +1,1 @@
+cmd_drivers/message/fusion/mptbase.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/message/fusion/mptbase.ko drivers/message/fusion/mptbase.o drivers/message/fusion/mptbase.mod.o

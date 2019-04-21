@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/w83627ehf.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/w83627ehf.ko drivers/hwmon/w83627ehf.o drivers/hwmon/w83627ehf.mod.o

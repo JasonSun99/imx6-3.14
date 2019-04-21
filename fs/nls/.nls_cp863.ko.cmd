@@ -1,0 +1,1 @@
+cmd_fs/nls/nls_cp863.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o fs/nls/nls_cp863.ko fs/nls/nls_cp863.o fs/nls/nls_cp863.mod.o

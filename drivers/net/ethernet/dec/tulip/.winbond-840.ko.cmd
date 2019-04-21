@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/dec/tulip/winbond-840.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/dec/tulip/winbond-840.ko drivers/net/ethernet/dec/tulip/winbond-840.o drivers/net/ethernet/dec/tulip/winbond-840.mod.o

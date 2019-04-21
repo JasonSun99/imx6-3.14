@@ -1,0 +1,1 @@
+cmd_drivers/media/mmc/siano/smssdio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/mmc/siano/smssdio.ko drivers/media/mmc/siano/smssdio.o drivers/media/mmc/siano/smssdio.mod.o

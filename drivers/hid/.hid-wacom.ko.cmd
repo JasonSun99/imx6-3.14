@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-wacom.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-wacom.ko drivers/hid/hid-wacom.o drivers/hid/hid-wacom.mod.o

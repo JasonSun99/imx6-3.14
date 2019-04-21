@@ -1,0 +1,1 @@
+cmd_drivers/usb/atm/ueagle-atm.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/atm/ueagle-atm.ko drivers/usb/atm/ueagle-atm.o drivers/usb/atm/ueagle-atm.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_marvell.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_marvell.ko drivers/ata/pata_marvell.o drivers/ata/pata_marvell.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-roccat-savu.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-roccat-savu.ko drivers/hid/hid-roccat-savu.o drivers/hid/hid-roccat-savu.mod.o

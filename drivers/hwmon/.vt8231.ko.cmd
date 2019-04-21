@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/vt8231.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/vt8231.ko drivers/hwmon/vt8231.o drivers/hwmon/vt8231.mod.o

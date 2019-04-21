@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-opera.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb/dvb-usb-opera.ko drivers/media/usb/dvb-usb/dvb-usb-opera.o drivers/media/usb/dvb-usb/dvb-usb-opera.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/tty/cyclades.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/cyclades.ko drivers/tty/cyclades.o drivers/tty/cyclades.mod.o

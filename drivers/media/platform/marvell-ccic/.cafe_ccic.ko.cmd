@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/marvell-ccic/cafe_ccic.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/platform/marvell-ccic/cafe_ccic.ko drivers/media/platform/marvell-ccic/cafe_ccic.o drivers/media/platform/marvell-ccic/cafe_ccic.mod.o

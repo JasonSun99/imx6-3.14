@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/adm9240.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/adm9240.ko drivers/hwmon/adm9240.o drivers/hwmon/adm9240.mod.o

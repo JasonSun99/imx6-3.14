@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/realtek/8139cp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/realtek/8139cp.ko drivers/net/ethernet/realtek/8139cp.o drivers/net/ethernet/realtek/8139cp.mod.o

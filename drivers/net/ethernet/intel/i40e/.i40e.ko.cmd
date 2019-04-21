@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/intel/i40e/i40e.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/intel/i40e/i40e.ko drivers/net/ethernet/intel/i40e/i40e.o drivers/net/ethernet/intel/i40e/i40e.mod.o

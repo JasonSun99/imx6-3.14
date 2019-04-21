@@ -1,0 +1,1 @@
+cmd_sound/i2c/other/snd-ak4113.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/i2c/other/snd-ak4113.ko sound/i2c/other/snd-ak4113.o sound/i2c/other/snd-ak4113.mod.o

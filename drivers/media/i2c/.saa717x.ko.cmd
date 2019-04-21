@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/saa717x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/i2c/saa717x.ko drivers/media/i2c/saa717x.o drivers/media/i2c/saa717x.mod.o

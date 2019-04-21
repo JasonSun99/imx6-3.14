@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hisax/sedlbauer_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hisax/sedlbauer_cs.ko drivers/isdn/hisax/sedlbauer_cs.o drivers/isdn/hisax/sedlbauer_cs.mod.o

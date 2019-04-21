@@ -1,0 +1,1 @@
+cmd_drivers/input/tablet/hanwang.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/tablet/hanwang.ko drivers/input/tablet/hanwang.o drivers/input/tablet/hanwang.mod.o

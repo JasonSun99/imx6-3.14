@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ibmpex.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/ibmpex.ko drivers/hwmon/ibmpex.o drivers/hwmon/ibmpex.mod.o

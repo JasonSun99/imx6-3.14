@@ -1,0 +1,10 @@
+imx6q-hummingboard.o: arch/arm/boot/dts/imx6q-hummingboard.dts \
+ arch/arm/boot/dts/imx6q.dtsi \
+ /home/study/imx-linux/SolidRun/linux-fslc/arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/boot/dts/imx6q-pinfunc.h arch/arm/boot/dts/imx6qdl.dtsi \
+ /home/study/imx-linux/SolidRun/linux-fslc/arch/arm/boot/dts/include/dt-bindings/clock/imx6qdl-clock.h \
+ /home/study/imx-linux/SolidRun/linux-fslc/arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/imx6qdl-hummingboard.dtsi \
+ arch/arm/boot/dts/imx6qdl-solidrun-microsom.dtsi \
+ arch/arm/boot/dts/imx6qdl-solidrun-microsom-ar8035.dtsi

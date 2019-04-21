@@ -1,0 +1,1 @@
+cmd_sound/firewire/snd-scs1x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/firewire/snd-scs1x.ko sound/firewire/snd-scs1x.o sound/firewire/snd-scs1x.mod.o

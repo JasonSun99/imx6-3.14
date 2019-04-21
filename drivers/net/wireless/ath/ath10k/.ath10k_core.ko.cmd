@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath10k/ath10k_core.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/ath10k/ath10k_core.ko drivers/net/wireless/ath/ath10k/ath10k_core.o drivers/net/wireless/ath/ath10k/ath10k_core.mod.o

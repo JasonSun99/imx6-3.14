@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/sun/niu.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/sun/niu.ko drivers/net/ethernet/sun/niu.o drivers/net/ethernet/sun/niu.mod.o

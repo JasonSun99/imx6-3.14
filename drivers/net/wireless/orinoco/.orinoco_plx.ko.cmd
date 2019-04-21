@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/orinoco/orinoco_plx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/orinoco/orinoco_plx.ko drivers/net/wireless/orinoco/orinoco_plx.o drivers/net/wireless/orinoco/orinoco_plx.mod.o

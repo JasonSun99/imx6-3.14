@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/cx23885/cx23885.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/cx23885/cx23885.ko drivers/media/pci/cx23885/cx23885.o drivers/media/pci/cx23885/cx23885.mod.o

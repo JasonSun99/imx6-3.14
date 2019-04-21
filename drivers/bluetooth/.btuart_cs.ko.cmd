@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/btuart_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/bluetooth/btuart_cs.ko drivers/bluetooth/btuart_cs.o drivers/bluetooth/btuart_cs.mod.o

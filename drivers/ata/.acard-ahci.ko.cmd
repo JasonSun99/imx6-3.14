@@ -1,0 +1,1 @@
+cmd_drivers/ata/acard-ahci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/acard-ahci.ko drivers/ata/acard-ahci.o drivers/ata/acard-ahci.mod.o

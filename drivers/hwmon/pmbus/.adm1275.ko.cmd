@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/adm1275.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/pmbus/adm1275.ko drivers/hwmon/pmbus/adm1275.o drivers/hwmon/pmbus/adm1275.mod.o

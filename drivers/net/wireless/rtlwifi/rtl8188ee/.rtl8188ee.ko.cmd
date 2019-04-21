@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtlwifi/rtl8188ee/rtl8188ee.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtlwifi/rtl8188ee/rtl8188ee.ko drivers/net/wireless/rtlwifi/rtl8188ee/rtl8188ee.o drivers/net/wireless/rtlwifi/rtl8188ee/rtl8188ee.mod.o

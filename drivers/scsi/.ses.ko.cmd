@@ -1,0 +1,1 @@
+cmd_drivers/scsi/ses.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/scsi/ses.ko drivers/scsi/ses.o drivers/scsi/ses.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/w83781d.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/w83781d.ko drivers/hwmon/w83781d.o drivers/hwmon/w83781d.mod.o

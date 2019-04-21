@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/atheros/atl1c/atl1c.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/atheros/atl1c/atl1c.ko drivers/net/ethernet/atheros/atl1c/atl1c.o drivers/net/ethernet/atheros/atl1c/atl1c.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/isdn/gigaset/usb_gigaset.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/gigaset/usb_gigaset.ko drivers/isdn/gigaset/usb_gigaset.o drivers/isdn/gigaset/usb_gigaset.mod.o

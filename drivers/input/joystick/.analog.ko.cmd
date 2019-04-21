@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/analog.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/analog.ko drivers/input/joystick/analog.o drivers/input/joystick/analog.mod.o

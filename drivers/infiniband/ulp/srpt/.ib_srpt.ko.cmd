@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/ulp/srpt/ib_srpt.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/ulp/srpt/ib_srpt.ko drivers/infiniband/ulp/srpt/ib_srpt.o drivers/infiniband/ulp/srpt/ib_srpt.mod.o

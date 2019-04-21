@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-aureal.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-aureal.ko drivers/hid/hid-aureal.o drivers/hid/hid-aureal.mod.o

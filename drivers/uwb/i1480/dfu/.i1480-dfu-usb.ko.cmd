@@ -1,0 +1,1 @@
+cmd_drivers/uwb/i1480/dfu/i1480-dfu-usb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/uwb/i1480/dfu/i1480-dfu-usb.ko drivers/uwb/i1480/dfu/i1480-dfu-usb.o drivers/uwb/i1480/dfu/i1480-dfu-usb.mod.o

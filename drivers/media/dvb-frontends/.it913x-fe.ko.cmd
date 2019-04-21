@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/it913x-fe.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/dvb-frontends/it913x-fe.ko drivers/media/dvb-frontends/it913x-fe.o drivers/media/dvb-frontends/it913x-fe.mod.o

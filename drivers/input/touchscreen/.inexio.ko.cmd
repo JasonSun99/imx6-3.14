@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/inexio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/touchscreen/inexio.ko drivers/input/touchscreen/inexio.o drivers/input/touchscreen/inexio.mod.o

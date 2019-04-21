@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/brocade/bna/bna.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/brocade/bna/bna.ko drivers/net/ethernet/brocade/bna/bna.o drivers/net/ethernet/brocade/bna/bna.mod.o

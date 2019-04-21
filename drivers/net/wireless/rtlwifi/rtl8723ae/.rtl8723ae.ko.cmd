@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.ko drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.o drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.mod.o

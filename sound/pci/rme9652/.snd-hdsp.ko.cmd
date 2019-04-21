@@ -1,0 +1,1 @@
+cmd_sound/pci/rme9652/snd-hdsp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/rme9652/snd-hdsp.ko sound/pci/rme9652/snd-hdsp.o sound/pci/rme9652/snd-hdsp.mod.o

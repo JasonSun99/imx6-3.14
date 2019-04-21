@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_nat_proto_dccp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netfilter/nf_nat_proto_dccp.ko net/netfilter/nf_nat_proto_dccp.o net/netfilter/nf_nat_proto_dccp.mod.o

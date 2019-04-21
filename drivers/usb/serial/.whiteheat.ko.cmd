@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/whiteheat.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/serial/whiteheat.ko drivers/usb/serial/whiteheat.o drivers/usb/serial/whiteheat.mod.o

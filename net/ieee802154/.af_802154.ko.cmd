@@ -1,0 +1,1 @@
+cmd_net/ieee802154/af_802154.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/ieee802154/af_802154.ko net/ieee802154/af_802154.o net/ieee802154/af_802154.mod.o

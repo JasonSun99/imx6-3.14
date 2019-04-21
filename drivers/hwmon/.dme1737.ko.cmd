@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/dme1737.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/dme1737.ko drivers/hwmon/dme1737.o drivers/hwmon/dme1737.mod.o

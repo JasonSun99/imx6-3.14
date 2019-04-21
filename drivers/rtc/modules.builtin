@@ -1,0 +1,4 @@
+kernel/drivers/rtc/rtc-cmos.ko
+kernel/drivers/rtc/rtc-mxc.ko
+kernel/drivers/rtc/rtc-pcf8523.ko
+kernel/drivers/rtc/rtc-snvs.ko

@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-friio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb/dvb-usb-friio.ko drivers/media/usb/dvb-usb/dvb-usb-friio.o drivers/media/usb/dvb-usb/dvb-usb-friio.mod.o

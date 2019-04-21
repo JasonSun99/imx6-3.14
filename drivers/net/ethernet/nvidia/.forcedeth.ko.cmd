@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/nvidia/forcedeth.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/nvidia/forcedeth.ko drivers/net/ethernet/nvidia/forcedeth.o drivers/net/ethernet/nvidia/forcedeth.mod.o

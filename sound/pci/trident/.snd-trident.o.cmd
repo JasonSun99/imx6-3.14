@@ -1,0 +1,1 @@
+cmd_sound/pci/trident/snd-trident.o := arm-linux-gnueabihf-ld -EL    -r -o sound/pci/trident/snd-trident.o sound/pci/trident/trident.o sound/pci/trident/trident_main.o sound/pci/trident/trident_memory.o 

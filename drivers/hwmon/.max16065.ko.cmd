@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/max16065.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/max16065.ko drivers/hwmon/max16065.o drivers/hwmon/max16065.mod.o

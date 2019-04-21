@@ -1,0 +1,1 @@
+cmd_drivers/net/team/team_mode_random.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/team/team_mode_random.ko drivers/net/team/team_mode_random.o drivers/net/team/team_mode_random.mod.o

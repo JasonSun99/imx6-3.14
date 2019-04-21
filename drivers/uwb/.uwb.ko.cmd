@@ -1,0 +1,1 @@
+cmd_drivers/uwb/uwb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/uwb/uwb.ko drivers/uwb/uwb.o drivers/uwb/uwb.mod.o

@@ -1,0 +1,1 @@
+cmd_sound/pci/lx6464es/snd-lx6464es.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/lx6464es/snd-lx6464es.ko sound/pci/lx6464es/snd-lx6464es.o sound/pci/lx6464es/snd-lx6464es.mod.o

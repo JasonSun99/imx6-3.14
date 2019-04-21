@@ -1,0 +1,1 @@
+cmd_drivers/media/common/saa7146/saa7146.o := arm-linux-gnueabihf-ld -EL    -r -o drivers/media/common/saa7146/saa7146.o drivers/media/common/saa7146/saa7146_i2c.o drivers/media/common/saa7146/saa7146_core.o 

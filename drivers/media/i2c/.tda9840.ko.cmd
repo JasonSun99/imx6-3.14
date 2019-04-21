@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/tda9840.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/i2c/tda9840.ko drivers/media/i2c/tda9840.o drivers/media/i2c/tda9840.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/isdn/mISDN/mISDN_core.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/mISDN/mISDN_core.ko drivers/isdn/mISDN/mISDN_core.o drivers/isdn/mISDN/mISDN_core.mod.o

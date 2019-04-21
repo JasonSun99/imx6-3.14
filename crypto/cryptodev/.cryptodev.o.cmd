@@ -1,0 +1,1 @@
+cmd_crypto/cryptodev/cryptodev.o := arm-linux-gnueabihf-ld -EL    -r -o crypto/cryptodev/cryptodev.o crypto/cryptodev/ioctl.o crypto/cryptodev/main.o crypto/cryptodev/cryptlib.o crypto/cryptodev/authenc.o crypto/cryptodev/zc.o crypto/cryptodev/util.o 

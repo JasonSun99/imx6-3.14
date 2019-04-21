@@ -1,0 +1,1 @@
+cmd_drivers/memstick/host/r592.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/memstick/host/r592.ko drivers/memstick/host/r592.o drivers/memstick/host/r592.mod.o

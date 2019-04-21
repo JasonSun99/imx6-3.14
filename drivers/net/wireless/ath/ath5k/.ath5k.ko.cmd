@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath5k/ath5k.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/ath5k/ath5k.ko drivers/net/wireless/ath/ath5k/ath5k.o drivers/net/wireless/ath/ath5k/ath5k.mod.o

@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/uImage := /bin/bash /home/study/imx-linux/SolidRun/linux-fslc/scripts/mkuboot.sh -A arm -O linux -C none  -T kernel -a 0x10800000 -e 0x10800000 -n 'Linux-3.14.79+' -d arch/arm/boot/zImage arch/arm/boot/uImage

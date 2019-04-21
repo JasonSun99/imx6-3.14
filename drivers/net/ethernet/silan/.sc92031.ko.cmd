@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/silan/sc92031.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/silan/sc92031.ko drivers/net/ethernet/silan/sc92031.o drivers/net/ethernet/silan/sc92031.mod.o

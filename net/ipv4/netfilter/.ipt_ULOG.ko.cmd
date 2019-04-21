@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/ipt_ULOG.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/ipv4/netfilter/ipt_ULOG.ko net/ipv4/netfilter/ipt_ULOG.o net/ipv4/netfilter/ipt_ULOG.mod.o

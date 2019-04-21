@@ -1,0 +1,1 @@
+cmd_drivers/mfd/rtsx_pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/mfd/rtsx_pci.ko drivers/mfd/rtsx_pci.o drivers/mfd/rtsx_pci.mod.o

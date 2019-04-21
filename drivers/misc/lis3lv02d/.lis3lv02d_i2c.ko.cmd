@@ -1,0 +1,1 @@
+cmd_drivers/misc/lis3lv02d/lis3lv02d_i2c.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/lis3lv02d/lis3lv02d_i2c.ko drivers/misc/lis3lv02d/lis3lv02d_i2c.o drivers/misc/lis3lv02d/lis3lv02d_i2c.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/dlink/sundance.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/dlink/sundance.ko drivers/net/ethernet/dlink/sundance.o drivers/net/ethernet/dlink/sundance.mod.o

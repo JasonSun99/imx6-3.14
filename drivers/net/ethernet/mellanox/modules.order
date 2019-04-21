@@ -1,0 +1,2 @@
+kernel/drivers/net/ethernet/mellanox/mlx4/mlx4_core.ko
+kernel/drivers/net/ethernet/mellanox/mlx5/core/mlx5_core.ko

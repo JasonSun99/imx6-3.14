@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/gf2k.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/gf2k.ko drivers/input/joystick/gf2k.o drivers/input/joystick/gf2k.mod.o

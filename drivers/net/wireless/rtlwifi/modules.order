@@ -1,0 +1,11 @@
+kernel/drivers/net/wireless/rtlwifi/rtlwifi.ko
+kernel/drivers/net/wireless/rtlwifi/rtl_pci.ko
+kernel/drivers/net/wireless/rtlwifi/rtl_usb.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8192ce/rtl8192ce.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8192se/rtl8192se.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8192de/rtl8192de.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8723ae/rtl8723ae.ko
+kernel/drivers/net/wireless/rtlwifi/rtl8188ee/rtl8188ee.ko

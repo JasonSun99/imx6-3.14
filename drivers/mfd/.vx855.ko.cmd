@@ -1,0 +1,1 @@
+cmd_drivers/mfd/vx855.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/mfd/vx855.ko drivers/mfd/vx855.o drivers/mfd/vx855.mod.o

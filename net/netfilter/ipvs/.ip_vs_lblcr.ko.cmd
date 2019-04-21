@@ -1,0 +1,1 @@
+cmd_net/netfilter/ipvs/ip_vs_lblcr.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netfilter/ipvs/ip_vs_lblcr.ko net/netfilter/ipvs/ip_vs_lblcr.o net/netfilter/ipvs/ip_vs_lblcr.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/hw/amso1100/iw_c2.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/hw/amso1100/iw_c2.ko drivers/infiniband/hw/amso1100/iw_c2.o drivers/infiniband/hw/amso1100/iw_c2.mod.o

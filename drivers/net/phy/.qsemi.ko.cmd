@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/qsemi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/qsemi.ko drivers/net/phy/qsemi.o drivers/net/phy/qsemi.mod.o

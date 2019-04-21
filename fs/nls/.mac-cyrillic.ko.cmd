@@ -1,0 +1,1 @@
+cmd_fs/nls/mac-cyrillic.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o fs/nls/mac-cyrillic.ko fs/nls/mac-cyrillic.o fs/nls/mac-cyrillic.mod.o

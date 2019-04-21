@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/natsemi/natsemi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/natsemi/natsemi.ko drivers/net/ethernet/natsemi/natsemi.o drivers/net/ethernet/natsemi/natsemi.mod.o

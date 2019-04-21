@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/ebt_arp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/bridge/netfilter/ebt_arp.ko net/bridge/netfilter/ebt_arp.o net/bridge/netfilter/ebt_arp.mod.o

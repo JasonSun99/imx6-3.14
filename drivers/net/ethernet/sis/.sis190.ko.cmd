@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/sis/sis190.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/sis/sis190.ko drivers/net/ethernet/sis/sis190.o drivers/net/ethernet/sis/sis190.mod.o

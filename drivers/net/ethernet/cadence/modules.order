@@ -1,0 +1,2 @@
+kernel/drivers/net/ethernet/cadence/at91_ether.ko
+kernel/drivers/net/ethernet/cadence/macb.ko

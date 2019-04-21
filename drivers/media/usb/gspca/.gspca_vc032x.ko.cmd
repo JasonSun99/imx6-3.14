@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_vc032x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/gspca/gspca_vc032x.ko drivers/media/usb/gspca/gspca_vc032x.o drivers/media/usb/gspca/gspca_vc032x.mod.o

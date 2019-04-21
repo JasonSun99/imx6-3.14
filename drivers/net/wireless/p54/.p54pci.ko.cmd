@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/p54/p54pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/p54/p54pci.ko drivers/net/wireless/p54/p54pci.o drivers/net/wireless/p54/p54pci.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/national.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/national.ko drivers/net/phy/national.o drivers/net/phy/national.mod.o

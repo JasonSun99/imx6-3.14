@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ina209.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/ina209.ko drivers/hwmon/ina209.o drivers/hwmon/ina209.mod.o

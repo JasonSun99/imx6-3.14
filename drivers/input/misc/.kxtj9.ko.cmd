@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/kxtj9.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/misc/kxtj9.ko drivers/input/misc/kxtj9.o drivers/input/misc/kxtj9.mod.o

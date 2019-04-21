@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/usb_f_ecm_subset.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/gadget/usb_f_ecm_subset.ko drivers/usb/gadget/usb_f_ecm_subset.o drivers/usb/gadget/usb_f_ecm_subset.mod.o

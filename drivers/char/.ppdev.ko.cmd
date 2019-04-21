@@ -1,0 +1,1 @@
+cmd_drivers/char/ppdev.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/char/ppdev.ko drivers/char/ppdev.o drivers/char/ppdev.mod.o

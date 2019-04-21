@@ -1,0 +1,2 @@
+kernel/drivers/net/ieee802154/fakehard.ko
+kernel/drivers/net/ieee802154/fakelb.ko

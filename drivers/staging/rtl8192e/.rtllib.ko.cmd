@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8192e/rtllib.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/staging/rtl8192e/rtllib.ko drivers/staging/rtl8192e/rtllib.o drivers/staging/rtl8192e/rtllib.mod.o

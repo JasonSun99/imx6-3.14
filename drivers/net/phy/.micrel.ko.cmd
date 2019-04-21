@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/micrel.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/micrel.ko drivers/net/phy/micrel.o drivers/net/phy/micrel.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/pcwd_pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/watchdog/pcwd_pci.ko drivers/watchdog/pcwd_pci.o drivers/watchdog/pcwd_pci.mod.o

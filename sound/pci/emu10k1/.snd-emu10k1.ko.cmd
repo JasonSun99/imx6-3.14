@@ -1,0 +1,1 @@
+cmd_sound/pci/emu10k1/snd-emu10k1.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/emu10k1/snd-emu10k1.ko sound/pci/emu10k1/snd-emu10k1.o sound/pci/emu10k1/snd-emu10k1.mod.o

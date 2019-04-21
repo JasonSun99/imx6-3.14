@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/pcwd_usb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/watchdog/pcwd_usb.ko drivers/watchdog/pcwd_usb.o drivers/watchdog/pcwd_usb.mod.o

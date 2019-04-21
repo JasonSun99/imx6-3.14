@@ -1,0 +1,1 @@
+cmd_drivers/staging/crystalhd/crystalhd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/staging/crystalhd/crystalhd.ko drivers/staging/crystalhd/crystalhd.o drivers/staging/crystalhd/crystalhd.mod.o

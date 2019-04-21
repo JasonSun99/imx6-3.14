@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/arc/arc_emac.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/arc/arc_emac.ko drivers/net/ethernet/arc/arc_emac.o drivers/net/ethernet/arc/arc_emac.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/bt8xx/dst_ca.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/bt8xx/dst_ca.ko drivers/media/pci/bt8xx/dst_ca.o drivers/media/pci/bt8xx/dst_ca.mod.o

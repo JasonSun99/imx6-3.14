@@ -1,0 +1,1 @@
+cmd_sound/drivers/opl3/snd-opl3-lib.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/drivers/opl3/snd-opl3-lib.ko sound/drivers/opl3/snd-opl3-lib.o sound/drivers/opl3/snd-opl3-lib.mod.o

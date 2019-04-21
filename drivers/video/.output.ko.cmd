@@ -1,0 +1,1 @@
+cmd_drivers/video/output.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/video/output.ko drivers/video/output.o drivers/video/output.mod.o

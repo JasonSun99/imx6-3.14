@@ -1,0 +1,1 @@
+cmd_drivers/nfc/port100.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/nfc/port100.ko drivers/nfc/port100.o drivers/nfc/port100.mod.o

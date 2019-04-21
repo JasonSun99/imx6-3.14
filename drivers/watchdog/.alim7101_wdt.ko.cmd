@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/alim7101_wdt.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/watchdog/alim7101_wdt.ko drivers/watchdog/alim7101_wdt.o drivers/watchdog/alim7101_wdt.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/tc358743_h2c_bridge.o := arm-linux-gnueabihf-ld -EL    -r -o drivers/media/platform/mxc/capture/tc358743_h2c_bridge.o drivers/media/platform/mxc/capture/tc358743_h2c.o 

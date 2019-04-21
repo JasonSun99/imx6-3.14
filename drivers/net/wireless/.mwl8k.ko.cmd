@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/mwl8k.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/mwl8k.ko drivers/net/wireless/mwl8k.o drivers/net/wireless/mwl8k.mod.o

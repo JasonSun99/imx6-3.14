@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/saa7134/saa7134-empress.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/saa7134/saa7134-empress.ko drivers/media/pci/saa7134/saa7134-empress.o drivers/media/pci/saa7134/saa7134-empress.mod.o

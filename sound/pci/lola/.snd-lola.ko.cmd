@@ -1,0 +1,1 @@
+cmd_sound/pci/lola/snd-lola.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/lola/snd-lola.ko sound/pci/lola/snd-lola.o sound/pci/lola/snd-lola.mod.o

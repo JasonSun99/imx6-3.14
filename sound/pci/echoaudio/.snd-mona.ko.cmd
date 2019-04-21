@@ -1,0 +1,1 @@
+cmd_sound/pci/echoaudio/snd-mona.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/echoaudio/snd-mona.ko sound/pci/echoaudio/snd-mona.o sound/pci/echoaudio/snd-mona.mod.o

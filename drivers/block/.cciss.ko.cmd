@@ -1,0 +1,1 @@
+cmd_drivers/block/cciss.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/block/cciss.ko drivers/block/cciss.o drivers/block/cciss.mod.o

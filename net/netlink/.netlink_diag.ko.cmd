@@ -1,0 +1,1 @@
+cmd_net/netlink/netlink_diag.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netlink/netlink_diag.ko net/netlink/netlink_diag.o net/netlink/netlink_diag.mod.o

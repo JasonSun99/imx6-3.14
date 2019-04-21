@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/st_accel_spi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/accel/st_accel_spi.ko drivers/iio/accel/st_accel_spi.o drivers/iio/accel/st_accel_spi.mod.o

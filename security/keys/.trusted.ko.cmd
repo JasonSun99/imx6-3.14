@@ -1,0 +1,1 @@
+cmd_security/keys/trusted.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o security/keys/trusted.ko security/keys/trusted.o security/keys/trusted.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/scsi/device_handler/scsi_dh_rdac.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/scsi/device_handler/scsi_dh_rdac.ko drivers/scsi/device_handler/scsi_dh_rdac.o drivers/scsi/device_handler/scsi_dh_rdac.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ieee802154/fakehard.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ieee802154/fakehard.ko drivers/net/ieee802154/fakehard.o drivers/net/ieee802154/fakehard.mod.o

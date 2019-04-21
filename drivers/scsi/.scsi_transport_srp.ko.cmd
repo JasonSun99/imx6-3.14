@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_transport_srp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/scsi/scsi_transport_srp.ko drivers/scsi/scsi_transport_srp.o drivers/scsi/scsi_transport_srp.mod.o

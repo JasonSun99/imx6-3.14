@@ -1,0 +1,1 @@
+cmd_sound/pci/korg1212/snd-korg1212.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/korg1212/snd-korg1212.ko sound/pci/korg1212/snd-korg1212.o sound/pci/korg1212/snd-korg1212.mod.o

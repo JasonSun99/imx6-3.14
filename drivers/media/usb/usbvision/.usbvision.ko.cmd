@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/usbvision/usbvision.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/usbvision/usbvision.ko drivers/media/usb/usbvision/usbvision.o drivers/media/usb/usbvision/usbvision.mod.o

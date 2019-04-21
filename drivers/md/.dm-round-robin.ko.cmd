@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-round-robin.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/md/dm-round-robin.ko drivers/md/dm-round-robin.o drivers/md/dm-round-robin.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-af9005-remote.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/dvb-usb/dvb-usb-af9005-remote.ko drivers/media/usb/dvb-usb/dvb-usb-af9005-remote.o drivers/media/usb/dvb-usb/dvb-usb-af9005-remote.mod.o

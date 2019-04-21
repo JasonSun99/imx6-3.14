@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/cx88/cx88-blackbird.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/cx88/cx88-blackbird.ko drivers/media/pci/cx88/cx88-blackbird.o drivers/media/pci/cx88/cx88-blackbird.mod.o

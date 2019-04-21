@@ -1,0 +1,3 @@
+kernel/Documentation/connector/cn_test.ko
+kernel/Documentation/filesystems/configfs/configfs_example_explicit.ko
+kernel/Documentation/filesystems/configfs/configfs_example_macros.ko

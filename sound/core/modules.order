@@ -1,0 +1,7 @@
+kernel/sound/core/seq/snd-seq-dummy.ko
+kernel/sound/core/seq/snd-seq-virmidi.ko
+kernel/sound/core/seq/snd-seq-midi.ko
+kernel/sound/core/seq/snd-seq-midi-emul.ko
+kernel/sound/core/seq/snd-seq-midi-emul.ko
+kernel/sound/core/seq/snd-seq-virmidi.ko
+kernel/sound/core/snd-rawmidi.ko

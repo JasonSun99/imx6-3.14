@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hisax/teles_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hisax/teles_cs.ko drivers/isdn/hisax/teles_cs.o drivers/isdn/hisax/teles_cs.mod.o

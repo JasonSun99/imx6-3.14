@@ -1,0 +1,1 @@
+cmd_drivers/net/vxlan.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/vxlan.ko drivers/net/vxlan.o drivers/net/vxlan.mod.o

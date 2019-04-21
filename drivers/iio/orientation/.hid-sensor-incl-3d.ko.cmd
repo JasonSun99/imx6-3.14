@@ -1,0 +1,1 @@
+cmd_drivers/iio/orientation/hid-sensor-incl-3d.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/orientation/hid-sensor-incl-3d.ko drivers/iio/orientation/hid-sensor-incl-3d.o drivers/iio/orientation/hid-sensor-incl-3d.mod.o

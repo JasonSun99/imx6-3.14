@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/amd/amd8111e.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/amd/amd8111e.ko drivers/net/ethernet/amd/amd8111e.o drivers/net/ethernet/amd/amd8111e.mod.o

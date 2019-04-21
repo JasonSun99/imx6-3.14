@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/cx18/cx18.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/cx18/cx18.ko drivers/media/pci/cx18/cx18.o drivers/media/pci/cx18/cx18.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/atm/solos-pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/atm/solos-pci.ko drivers/atm/solos-pci.o drivers/atm/solos-pci.mod.o

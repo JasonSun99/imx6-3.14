@@ -1,0 +1,1 @@
+cmd_sound/pci/snd-atiixp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/snd-atiixp.ko sound/pci/snd-atiixp.o sound/pci/snd-atiixp.mod.o

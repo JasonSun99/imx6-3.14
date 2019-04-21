@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-bq4802.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/rtc/rtc-bq4802.ko drivers/rtc/rtc-bq4802.o drivers/rtc/rtc-bq4802.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/saa7164/saa7164.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/saa7164/saa7164.ko drivers/media/pci/saa7164/saa7164.o drivers/media/pci/saa7164/saa7164.mod.o

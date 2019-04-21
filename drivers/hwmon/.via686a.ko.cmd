@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/via686a.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/via686a.ko drivers/hwmon/via686a.o drivers/hwmon/via686a.mod.o

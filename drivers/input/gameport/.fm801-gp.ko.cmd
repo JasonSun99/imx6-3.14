@@ -1,0 +1,1 @@
+cmd_drivers/input/gameport/fm801-gp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/gameport/fm801-gp.ko drivers/input/gameport/fm801-gp.o drivers/input/gameport/fm801-gp.mod.o

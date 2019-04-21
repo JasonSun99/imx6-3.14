@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/dynapro.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/touchscreen/dynapro.ko drivers/input/touchscreen/dynapro.o drivers/input/touchscreen/dynapro.mod.o

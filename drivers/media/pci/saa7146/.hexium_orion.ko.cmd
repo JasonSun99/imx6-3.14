@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/saa7146/hexium_orion.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/saa7146/hexium_orion.ko drivers/media/pci/saa7146/hexium_orion.o drivers/media/pci/saa7146/hexium_orion.mod.o

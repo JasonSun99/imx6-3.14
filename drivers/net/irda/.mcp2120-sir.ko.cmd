@@ -1,0 +1,1 @@
+cmd_drivers/net/irda/mcp2120-sir.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/irda/mcp2120-sir.ko drivers/net/irda/mcp2120-sir.o drivers/net/irda/mcp2120-sir.mod.o

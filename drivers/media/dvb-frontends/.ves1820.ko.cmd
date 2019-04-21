@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/ves1820.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/dvb-frontends/ves1820.ko drivers/media/dvb-frontends/ves1820.o drivers/media/dvb-frontends/ves1820.mod.o

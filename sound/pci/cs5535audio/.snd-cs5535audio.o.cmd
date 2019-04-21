@@ -1,0 +1,1 @@
+cmd_sound/pci/cs5535audio/snd-cs5535audio.o := arm-linux-gnueabihf-ld -EL    -r -o sound/pci/cs5535audio/snd-cs5535audio.o sound/pci/cs5535audio/cs5535audio.o sound/pci/cs5535audio/cs5535audio_pcm.o sound/pci/cs5535audio/cs5535audio_pm.o 

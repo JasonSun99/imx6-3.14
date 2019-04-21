@@ -1,0 +1,1 @@
+cmd_drivers/scsi/libsas/libsas.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/scsi/libsas/libsas.ko drivers/scsi/libsas/libsas.o drivers/scsi/libsas/libsas.mod.o

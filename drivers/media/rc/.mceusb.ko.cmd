@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/mceusb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/rc/mceusb.ko drivers/media/rc/mceusb.o drivers/media/rc/mceusb.mod.o

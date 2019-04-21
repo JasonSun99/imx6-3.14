@@ -1,0 +1,1 @@
+cmd_drivers/misc/isl29003.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/isl29003.ko drivers/misc/isl29003.o drivers/misc/isl29003.mod.o

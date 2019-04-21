@@ -1,0 +1,1 @@
+cmd_drivers/net/mdio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/mdio.ko drivers/net/mdio.o drivers/net/mdio.mod.o

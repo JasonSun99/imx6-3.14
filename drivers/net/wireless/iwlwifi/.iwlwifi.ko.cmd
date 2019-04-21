@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/iwlwifi/iwlwifi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/iwlwifi/iwlwifi.ko drivers/net/wireless/iwlwifi/iwlwifi.o drivers/net/wireless/iwlwifi/iwlwifi.mod.o

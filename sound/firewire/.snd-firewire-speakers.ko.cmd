@@ -1,0 +1,1 @@
+cmd_sound/firewire/snd-firewire-speakers.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/firewire/snd-firewire-speakers.ko sound/firewire/snd-firewire-speakers.o sound/firewire/snd-firewire-speakers.mod.o

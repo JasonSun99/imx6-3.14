@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/intel/igbvf/igbvf.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/intel/igbvf/igbvf.ko drivers/net/ethernet/intel/igbvf/igbvf.o drivers/net/ethernet/intel/igbvf/igbvf.mod.o

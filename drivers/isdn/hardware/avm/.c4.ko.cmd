@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hardware/avm/c4.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hardware/avm/c4.ko drivers/isdn/hardware/avm/c4.o drivers/isdn/hardware/avm/c4.mod.o

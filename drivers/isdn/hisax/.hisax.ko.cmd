@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hisax/hisax.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hisax/hisax.ko drivers/isdn/hisax/hisax.o drivers/isdn/hisax/hisax.mod.o

@@ -1,0 +1,1 @@
+cmd_net/9p/9pnet_virtio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/9p/9pnet_virtio.ko net/9p/9pnet_virtio.o net/9p/9pnet_virtio.mod.o

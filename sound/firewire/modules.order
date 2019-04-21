@@ -1,0 +1,5 @@
+kernel/sound/firewire/snd-firewire-lib.ko
+kernel/sound/firewire/snd-dice.ko
+kernel/sound/firewire/snd-firewire-speakers.ko
+kernel/sound/firewire/snd-isight.ko
+kernel/sound/firewire/snd-scs1x.ko

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/penmount.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/touchscreen/penmount.ko drivers/input/touchscreen/penmount.o drivers/input/touchscreen/penmount.mod.o

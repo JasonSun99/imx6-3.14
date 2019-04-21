@@ -1,0 +1,1 @@
+cmd_sound/pci/mixart/snd-mixart.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/mixart/snd-mixart.ko sound/pci/mixart/snd-mixart.o sound/pci/mixart/snd-mixart.mod.o

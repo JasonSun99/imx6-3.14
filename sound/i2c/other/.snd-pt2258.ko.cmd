@@ -1,0 +1,1 @@
+cmd_sound/i2c/other/snd-pt2258.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/i2c/other/snd-pt2258.ko sound/i2c/other/snd-pt2258.o sound/i2c/other/snd-pt2258.mod.o

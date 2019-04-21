@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/intel/e1000/e1000.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/intel/e1000/e1000.ko drivers/net/ethernet/intel/e1000/e1000.o drivers/net/ethernet/intel/e1000/e1000.mod.o

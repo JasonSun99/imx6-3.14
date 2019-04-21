@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/ttusb-dec/ttusbdecfe.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/ttusb-dec/ttusbdecfe.ko drivers/media/usb/ttusb-dec/ttusbdecfe.o drivers/media/usb/ttusb-dec/ttusbdecfe.mod.o

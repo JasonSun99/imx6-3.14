@@ -1,0 +1,9 @@
+kernel/drivers/mmc/card/sdio_uart.ko
+kernel/drivers/mmc/host/sdhci-pci.ko
+kernel/drivers/mmc/host/tifm_sd.ko
+kernel/drivers/mmc/host/sdricoh_cs.ko
+kernel/drivers/mmc/host/cb710-mmc.ko
+kernel/drivers/mmc/host/via-sdmmc.ko
+kernel/drivers/mmc/host/vub300.ko
+kernel/drivers/mmc/host/ushc.ko
+kernel/drivers/mmc/host/rtsx_pci_sdmmc.ko

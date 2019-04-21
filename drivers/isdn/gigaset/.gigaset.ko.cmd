@@ -1,0 +1,1 @@
+cmd_drivers/isdn/gigaset/gigaset.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/gigaset/gigaset.ko drivers/isdn/gigaset/gigaset.o drivers/isdn/gigaset/gigaset.mod.o

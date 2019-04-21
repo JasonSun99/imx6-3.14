@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/intel/ixgbe/ixgbe.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/intel/ixgbe/ixgbe.ko drivers/net/ethernet/intel/ixgbe/ixgbe.o drivers/net/ethernet/intel/ixgbe/ixgbe.mod.o

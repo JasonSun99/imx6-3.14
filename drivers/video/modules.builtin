@@ -1,0 +1,17 @@
+kernel/drivers/video/fb.ko
+kernel/drivers/video/cfbfillrect.ko
+kernel/drivers/video/cfbcopyarea.ko
+kernel/drivers/video/cfbimgblt.ko
+kernel/drivers/video/console/fbcon.ko
+kernel/drivers/video/console/bitblit.ko
+kernel/drivers/video/console/softcursor.ko
+kernel/drivers/video/console/fbcon_rotate.ko
+kernel/drivers/video/console/fbcon_cw.ko
+kernel/drivers/video/console/fbcon_ud.ko
+kernel/drivers/video/console/fbcon_ccw.ko
+kernel/drivers/video/mxc/ldb.ko
+kernel/drivers/video/mxc/mxc_hdmi.ko
+kernel/drivers/video/mxc/mxc_edid.ko
+kernel/drivers/video/mxc/mxc_dispdrv.ko
+kernel/drivers/video/mxc/mxc_lcdif.ko
+kernel/drivers/video/mxc/mxc_ipuv3_fb.ko

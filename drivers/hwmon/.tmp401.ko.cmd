@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/tmp401.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/tmp401.ko drivers/hwmon/tmp401.o drivers/hwmon/tmp401.mod.o

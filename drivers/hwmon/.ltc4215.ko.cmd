@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ltc4215.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/ltc4215.ko drivers/hwmon/ltc4215.o drivers/hwmon/ltc4215.mod.o

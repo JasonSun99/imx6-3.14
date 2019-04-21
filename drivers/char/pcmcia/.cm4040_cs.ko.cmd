@@ -1,0 +1,1 @@
+cmd_drivers/char/pcmcia/cm4040_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/char/pcmcia/cm4040_cs.ko drivers/char/pcmcia/cm4040_cs.o drivers/char/pcmcia/cm4040_cs.mod.o

@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_reject_inet.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netfilter/nft_reject_inet.ko net/netfilter/nft_reject_inet.o net/netfilter/nft_reject_inet.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/misc/apds990x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/apds990x.ko drivers/misc/apds990x.o drivers/misc/apds990x.mod.o

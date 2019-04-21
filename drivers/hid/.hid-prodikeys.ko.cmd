@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-prodikeys.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-prodikeys.ko drivers/hid/hid-prodikeys.o drivers/hid/hid-prodikeys.mod.o

@@ -1,0 +1,15 @@
+kernel/drivers/staging/media/lirc/lirc_bt829.ko
+kernel/drivers/staging/media/lirc/lirc_igorplugusb.ko
+kernel/drivers/staging/media/lirc/lirc_imon.ko
+kernel/drivers/staging/media/lirc/lirc_parallel.ko
+kernel/drivers/staging/media/lirc/lirc_sasem.ko
+kernel/drivers/staging/media/lirc/lirc_serial.ko
+kernel/drivers/staging/media/lirc/lirc_sir.ko
+kernel/drivers/staging/media/lirc/lirc_zilog.ko
+kernel/drivers/staging/rtl8192e/rtllib.ko
+kernel/drivers/staging/rtl8192e/rtllib_crypt_ccmp.ko
+kernel/drivers/staging/rtl8192e/rtllib_crypt_tkip.ko
+kernel/drivers/staging/rtl8192e/rtllib_crypt_wep.ko
+kernel/drivers/staging/rtl8192e/rtl8192e/r8192e_pci.ko
+kernel/drivers/staging/rtl8712/r8712u.ko
+kernel/drivers/staging/crystalhd/crystalhd.ko

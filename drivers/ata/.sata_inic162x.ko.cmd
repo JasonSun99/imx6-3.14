@@ -1,0 +1,1 @@
+cmd_drivers/ata/sata_inic162x.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/sata_inic162x.ko drivers/ata/sata_inic162x.o drivers/ata/sata_inic162x.mod.o

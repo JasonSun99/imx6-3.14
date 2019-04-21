@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/tifm_sd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/mmc/host/tifm_sd.ko drivers/mmc/host/tifm_sd.o drivers/mmc/host/tifm_sd.mod.o

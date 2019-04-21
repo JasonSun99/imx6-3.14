@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/spaceorb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/spaceorb.ko drivers/input/joystick/spaceorb.o drivers/input/joystick/spaceorb.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/b2c2/b2c2-flexcop-pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/b2c2/b2c2-flexcop-pci.ko drivers/media/pci/b2c2/b2c2-flexcop-pci.o drivers/media/pci/b2c2/b2c2-flexcop-pci.mod.o

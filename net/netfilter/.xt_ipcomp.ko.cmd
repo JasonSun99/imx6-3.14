@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_ipcomp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/netfilter/xt_ipcomp.ko net/netfilter/xt_ipcomp.o net/netfilter/xt_ipcomp.mod.o

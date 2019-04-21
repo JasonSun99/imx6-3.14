@@ -1,0 +1,4 @@
+kernel/drivers/mfd/sm501.ko
+kernel/drivers/mfd/rtsx_pci.ko
+kernel/drivers/mfd/vx855.ko
+kernel/drivers/mfd/viperboard.ko

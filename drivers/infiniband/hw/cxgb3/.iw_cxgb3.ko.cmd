@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/hw/cxgb3/iw_cxgb3.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/hw/cxgb3/iw_cxgb3.ko drivers/infiniband/hw/cxgb3/iw_cxgb3.o drivers/infiniband/hw/cxgb3/iw_cxgb3.mod.o

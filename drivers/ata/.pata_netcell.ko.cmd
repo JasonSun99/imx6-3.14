@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_netcell.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_netcell.ko drivers/ata/pata_netcell.o drivers/ata/pata_netcell.mod.o

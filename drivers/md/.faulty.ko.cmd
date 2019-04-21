@@ -1,0 +1,1 @@
+cmd_drivers/md/faulty.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/md/faulty.ko drivers/md/faulty.o drivers/md/faulty.mod.o

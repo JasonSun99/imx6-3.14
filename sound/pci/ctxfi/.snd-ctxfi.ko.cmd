@@ -1,0 +1,1 @@
+cmd_sound/pci/ctxfi/snd-ctxfi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/ctxfi/snd-ctxfi.ko sound/pci/ctxfi/snd-ctxfi.o sound/pci/ctxfi/snd-ctxfi.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/memstick/core/memstick.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/memstick/core/memstick.ko drivers/memstick/core/memstick.o drivers/memstick/core/memstick.mod.o

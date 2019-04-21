@@ -1,0 +1,1 @@
+cmd_drivers/net/irda/kingsun-sir.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/irda/kingsun-sir.ko drivers/net/irda/kingsun-sir.o drivers/net/irda/kingsun-sir.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/ads7828.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/ads7828.ko drivers/hwmon/ads7828.o drivers/hwmon/ads7828.mod.o

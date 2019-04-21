@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/thmc50.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/thmc50.ko drivers/hwmon/thmc50.o drivers/hwmon/thmc50.mod.o

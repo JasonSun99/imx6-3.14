@@ -1,0 +1,1 @@
+cmd_drivers/net/macvtap.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/macvtap.ko drivers/net/macvtap.o drivers/net/macvtap.mod.o

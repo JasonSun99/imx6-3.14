@@ -1,0 +1,1 @@
+cmd_drivers/iio/magnetometer/st_magn.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/magnetometer/st_magn.ko drivers/iio/magnetometer/st_magn.o drivers/iio/magnetometer/st_magn.mod.o

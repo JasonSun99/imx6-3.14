@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/vt1211.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/vt1211.ko drivers/hwmon/vt1211.o drivers/hwmon/vt1211.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/cadence/at91_ether.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/cadence/at91_ether.ko drivers/net/ethernet/cadence/at91_ether.o drivers/net/ethernet/cadence/at91_ether.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/mma8450.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/misc/mma8450.ko drivers/input/misc/mma8450.o drivers/input/misc/mma8450.mod.o

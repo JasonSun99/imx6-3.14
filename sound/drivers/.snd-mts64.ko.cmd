@@ -1,0 +1,1 @@
+cmd_sound/drivers/snd-mts64.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/drivers/snd-mts64.ko sound/drivers/snd-mts64.o sound/drivers/snd-mts64.mod.o

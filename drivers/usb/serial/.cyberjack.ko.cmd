@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/cyberjack.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/serial/cyberjack.ko drivers/usb/serial/cyberjack.o drivers/usb/serial/cyberjack.mod.o

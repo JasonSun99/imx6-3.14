@@ -1,0 +1,1 @@
+cmd_net/rfkill/rfkill-gpio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/rfkill/rfkill-gpio.ko net/rfkill/rfkill-gpio.o net/rfkill/rfkill-gpio.mod.o

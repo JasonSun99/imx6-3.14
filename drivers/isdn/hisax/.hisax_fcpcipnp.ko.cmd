@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hisax/hisax_fcpcipnp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hisax/hisax_fcpcipnp.ko drivers/isdn/hisax/hisax_fcpcipnp.o drivers/isdn/hisax/hisax_fcpcipnp.mod.o

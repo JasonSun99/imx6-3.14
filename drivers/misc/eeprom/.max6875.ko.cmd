@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/max6875.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/eeprom/max6875.ko drivers/misc/eeprom/max6875.o drivers/misc/eeprom/max6875.mod.o

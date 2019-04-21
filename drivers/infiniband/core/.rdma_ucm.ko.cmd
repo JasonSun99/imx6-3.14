@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/core/rdma_ucm.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/core/rdma_ucm.ko drivers/infiniband/core/rdma_ucm.o drivers/infiniband/core/rdma_ucm.mod.o

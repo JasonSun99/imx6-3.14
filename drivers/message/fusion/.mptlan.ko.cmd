@@ -1,0 +1,1 @@
+cmd_drivers/message/fusion/mptlan.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/message/fusion/mptlan.ko drivers/message/fusion/mptlan.o drivers/message/fusion/mptlan.mod.o

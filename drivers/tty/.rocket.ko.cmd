@@ -1,0 +1,1 @@
+cmd_drivers/tty/rocket.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/rocket.ko drivers/tty/rocket.o drivers/tty/rocket.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/smsc/epic100.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/smsc/epic100.ko drivers/net/ethernet/smsc/epic100.o drivers/net/ethernet/smsc/epic100.mod.o

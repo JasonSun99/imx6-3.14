@@ -1,0 +1,1 @@
+cmd_drivers/nfc/microread/microread_i2c.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/nfc/microread/microread_i2c.ko drivers/nfc/microread/microread_i2c.o drivers/nfc/microread/microread_i2c.mod.o

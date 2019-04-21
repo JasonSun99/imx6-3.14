@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/lineage-pem.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/lineage-pem.ko drivers/hwmon/lineage-pem.o drivers/hwmon/lineage-pem.mod.o

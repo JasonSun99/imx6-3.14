@@ -1,0 +1,1 @@
+cmd_net/sched/em_text.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/sched/em_text.ko net/sched/em_text.o net/sched/em_text.mod.o

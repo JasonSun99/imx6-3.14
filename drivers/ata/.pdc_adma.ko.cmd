@@ -1,0 +1,1 @@
+cmd_drivers/ata/pdc_adma.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pdc_adma.ko drivers/ata/pdc_adma.o drivers/ata/pdc_adma.mod.o

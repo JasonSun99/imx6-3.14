@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/via/via-rhine.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/via/via-rhine.ko drivers/net/ethernet/via/via-rhine.o drivers/net/ethernet/via/via-rhine.mod.o

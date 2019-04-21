@@ -1,0 +1,1 @@
+cmd_crypto/cast6_generic.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o crypto/cast6_generic.ko crypto/cast6_generic.o crypto/cast6_generic.mod.o

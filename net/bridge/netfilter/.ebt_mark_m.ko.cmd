@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/ebt_mark_m.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/bridge/netfilter/ebt_mark_m.ko net/bridge/netfilter/ebt_mark_m.o net/bridge/netfilter/ebt_mark_m.mod.o

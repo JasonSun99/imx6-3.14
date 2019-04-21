@@ -1,0 +1,1 @@
+cmd_drivers/net/irda/toim3232-sir.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/irda/toim3232-sir.ko drivers/net/irda/toim3232-sir.o drivers/net/irda/toim3232-sir.mod.o

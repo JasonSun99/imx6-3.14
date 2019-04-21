@@ -1,0 +1,1 @@
+cmd_drivers/net/hamradio/baycom_epp.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/hamradio/baycom_epp.ko drivers/net/hamradio/baycom_epp.o drivers/net/hamradio/baycom_epp.mod.o

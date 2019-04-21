@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hisax/avma1_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hisax/avma1_cs.ko drivers/isdn/hisax/avma1_cs.o drivers/isdn/hisax/avma1_cs.mod.o

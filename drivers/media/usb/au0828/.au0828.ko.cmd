@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/au0828/au0828.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/au0828/au0828.ko drivers/media/usb/au0828/au0828.o drivers/media/usb/au0828/au0828.mod.o

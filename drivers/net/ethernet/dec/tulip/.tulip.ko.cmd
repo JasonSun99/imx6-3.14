@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/dec/tulip/tulip.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/dec/tulip/tulip.ko drivers/net/ethernet/dec/tulip/tulip.o drivers/net/ethernet/dec/tulip/tulip.mod.o

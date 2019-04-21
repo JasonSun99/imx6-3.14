@@ -1,0 +1,1 @@
+cmd_drivers/misc/apds9802als.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/misc/apds9802als.ko drivers/misc/apds9802als.o drivers/misc/apds9802als.mod.o

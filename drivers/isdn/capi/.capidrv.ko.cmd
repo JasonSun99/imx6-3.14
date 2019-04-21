@@ -1,0 +1,1 @@
+cmd_drivers/isdn/capi/capidrv.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/capi/capidrv.ko drivers/isdn/capi/capidrv.o drivers/isdn/capi/capidrv.mod.o

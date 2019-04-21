@@ -1,0 +1,1 @@
+cmd_drivers/char/ipmi/ipmi_poweroff.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/char/ipmi/ipmi_poweroff.ko drivers/char/ipmi/ipmi_poweroff.o drivers/char/ipmi/ipmi_poweroff.mod.o

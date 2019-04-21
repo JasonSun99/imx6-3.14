@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rt2x00/rt2800mmio.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/rt2x00/rt2800mmio.ko drivers/net/wireless/rt2x00/rt2800mmio.o drivers/net/wireless/rt2x00/rt2800mmio.mod.o

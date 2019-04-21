@@ -1,0 +1,1 @@
+cmd_drivers/usb/wusbcore/wusb-cbaf.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/wusbcore/wusb-cbaf.ko drivers/usb/wusbcore/wusb-cbaf.o drivers/usb/wusbcore/wusb-cbaf.mod.o

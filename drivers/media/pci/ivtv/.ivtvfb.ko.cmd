@@ -1,0 +1,1 @@
+cmd_drivers/media/pci/ivtv/ivtvfb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/pci/ivtv/ivtvfb.ko drivers/media/pci/ivtv/ivtvfb.o drivers/media/pci/ivtv/ivtvfb.mod.o

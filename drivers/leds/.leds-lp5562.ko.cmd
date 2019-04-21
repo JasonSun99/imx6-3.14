@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lp5562.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/leds/leds-lp5562.ko drivers/leds/leds-lp5562.o drivers/leds/leds-lp5562.mod.o

@@ -1,0 +1,1 @@
+cmd_fs/nls/mac-centeuro.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o fs/nls/mac-centeuro.ko fs/nls/mac-centeuro.o fs/nls/mac-centeuro.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/myricom/myri10ge/myri10ge.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/myricom/myri10ge/myri10ge.ko drivers/net/ethernet/myricom/myri10ge/myri10ge.o drivers/net/ethernet/myricom/myri10ge/myri10ge.mod.o

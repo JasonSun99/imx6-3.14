@@ -1,0 +1,1 @@
+cmd_drivers/iio/gyro/hid-sensor-gyro-3d.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/gyro/hid-sensor-gyro-3d.ko drivers/iio/gyro/hid-sensor-gyro-3d.o drivers/iio/gyro/hid-sensor-gyro-3d.mod.o

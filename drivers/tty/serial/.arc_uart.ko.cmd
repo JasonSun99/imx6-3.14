@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/arc_uart.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/serial/arc_uart.ko drivers/tty/serial/arc_uart.o drivers/tty/serial/arc_uart.mod.o

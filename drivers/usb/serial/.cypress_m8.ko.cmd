@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/cypress_m8.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/usb/serial/cypress_m8.ko drivers/usb/serial/cypress_m8.o drivers/usb/serial/cypress_m8.mod.o

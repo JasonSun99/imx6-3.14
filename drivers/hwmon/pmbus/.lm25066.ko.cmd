@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/lm25066.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/pmbus/lm25066.ko drivers/hwmon/pmbus/lm25066.o drivers/hwmon/pmbus/lm25066.mod.o

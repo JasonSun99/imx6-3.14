@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-adstech-dvb-t-pci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-adstech-dvb-t-pci.ko drivers/media/rc/keymaps/rc-adstech-dvb-t-pci.o drivers/media/rc/keymaps/rc-adstech-dvb-t-pci.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/vub300.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/mmc/host/vub300.ko drivers/mmc/host/vub300.o drivers/mmc/host/vub300.mod.o

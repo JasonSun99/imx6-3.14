@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-sensor-hub.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-sensor-hub.ko drivers/hid/hid-sensor-hub.o drivers/hid/hid-sensor-hub.mod.o

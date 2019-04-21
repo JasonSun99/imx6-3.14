@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/packetengines/hamachi.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/packetengines/hamachi.ko drivers/net/ethernet/packetengines/hamachi.o drivers/net/ethernet/packetengines/hamachi.mod.o

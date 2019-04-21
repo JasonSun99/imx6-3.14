@@ -1,0 +1,1 @@
+cmd_drivers/iio/magnetometer/hid-sensor-magn-3d.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/magnetometer/hid-sensor-magn-3d.ko drivers/iio/magnetometer/hid-sensor-magn-3d.o drivers/iio/magnetometer/hid-sensor-magn-3d.mod.o

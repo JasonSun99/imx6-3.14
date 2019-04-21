@@ -1,0 +1,1 @@
+cmd_drivers/atm/eni.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/atm/eni.ko drivers/atm/eni.o drivers/atm/eni.mod.o

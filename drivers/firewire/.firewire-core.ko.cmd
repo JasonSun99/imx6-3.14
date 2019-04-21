@@ -1,0 +1,1 @@
+cmd_drivers/firewire/firewire-core.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/firewire/firewire-core.ko drivers/firewire/firewire-core.o drivers/firewire/firewire-core.mod.o

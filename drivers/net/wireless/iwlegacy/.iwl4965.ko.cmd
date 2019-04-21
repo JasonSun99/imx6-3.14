@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/iwlegacy/iwl4965.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/iwlegacy/iwl4965.ko drivers/net/wireless/iwlegacy/iwl4965.o drivers/net/wireless/iwlegacy/iwl4965.mod.o

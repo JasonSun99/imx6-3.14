@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/cx231xx/cx231xx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/media/usb/cx231xx/cx231xx.ko drivers/media/usb/cx231xx/cx231xx.o drivers/media/usb/cx231xx/cx231xx.mod.o

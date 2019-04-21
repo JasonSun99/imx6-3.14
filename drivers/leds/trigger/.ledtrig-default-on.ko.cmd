@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/ledtrig-default-on.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/leds/trigger/ledtrig-default-on.ko drivers/leds/trigger/ledtrig-default-on.o drivers/leds/trigger/ledtrig-default-on.mod.o

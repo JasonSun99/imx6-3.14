@@ -1,0 +1,1 @@
+cmd_sound/drivers/vx/snd-vx-lib.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/drivers/vx/snd-vx-lib.ko sound/drivers/vx/snd-vx-lib.o sound/drivers/vx/snd-vx-lib.mod.o

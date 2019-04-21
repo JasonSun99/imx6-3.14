@@ -1,0 +1,1 @@
+cmd_sound/pci/echoaudio/snd-indigodjx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/echoaudio/snd-indigodjx.ko sound/pci/echoaudio/snd-indigodjx.o sound/pci/echoaudio/snd-indigodjx.mod.o

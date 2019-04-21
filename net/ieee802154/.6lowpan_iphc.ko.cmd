@@ -1,0 +1,1 @@
+cmd_net/ieee802154/6lowpan_iphc.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o net/ieee802154/6lowpan_iphc.ko net/ieee802154/6lowpan_iphc.o net/ieee802154/6lowpan_iphc.mod.o

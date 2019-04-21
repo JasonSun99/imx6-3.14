@@ -1,0 +1,1 @@
+cmd_drivers/input/tablet/gtco.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/tablet/gtco.ko drivers/input/tablet/gtco.o drivers/input/tablet/gtco.mod.o

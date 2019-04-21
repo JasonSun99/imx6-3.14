@@ -1,0 +1,1 @@
+cmd_sound/pci/ca0106/snd-ca0106.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/ca0106/snd-ca0106.ko sound/pci/ca0106/snd-ca0106.o sound/pci/ca0106/snd-ca0106.mod.o

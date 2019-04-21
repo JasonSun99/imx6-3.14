@@ -1,0 +1,1 @@
+cmd_drivers/tty/ipwireless/ipwireless.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/ipwireless/ipwireless.ko drivers/tty/ipwireless/ipwireless.o drivers/tty/ipwireless/ipwireless.mod.o

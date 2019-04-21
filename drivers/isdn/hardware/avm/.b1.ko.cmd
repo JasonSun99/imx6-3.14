@@ -1,0 +1,1 @@
+cmd_drivers/isdn/hardware/avm/b1.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/isdn/hardware/avm/b1.ko drivers/isdn/hardware/avm/b1.o drivers/isdn/hardware/avm/b1.mod.o

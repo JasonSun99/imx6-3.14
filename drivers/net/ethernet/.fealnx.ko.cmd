@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/fealnx.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/fealnx.ko drivers/net/ethernet/fealnx.o drivers/net/ethernet/fealnx.mod.o

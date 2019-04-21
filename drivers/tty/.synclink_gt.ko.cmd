@@ -1,0 +1,1 @@
+cmd_drivers/tty/synclink_gt.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/tty/synclink_gt.ko drivers/tty/synclink_gt.o drivers/tty/synclink_gt.mod.o

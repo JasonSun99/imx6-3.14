@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/lm93.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/lm93.ko drivers/hwmon/lm93.o drivers/hwmon/lm93.mod.o

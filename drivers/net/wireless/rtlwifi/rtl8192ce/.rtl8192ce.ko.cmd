@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtlwifi/rtl8192ce/rtl8192ce.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtlwifi/rtl8192ce/rtl8192ce.ko drivers/net/wireless/rtlwifi/rtl8192ce/rtl8192ce.o drivers/net/wireless/rtlwifi/rtl8192ce/rtl8192ce.mod.o

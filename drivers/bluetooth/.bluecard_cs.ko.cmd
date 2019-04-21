@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/bluecard_cs.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/bluetooth/bluecard_cs.ko drivers/bluetooth/bluecard_cs.o drivers/bluetooth/bluecard_cs.mod.o

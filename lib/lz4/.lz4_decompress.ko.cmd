@@ -1,0 +1,1 @@
+cmd_lib/lz4/lz4_decompress.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o lib/lz4/lz4_decompress.ko lib/lz4/lz4_decompress.o lib/lz4/lz4_decompress.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/marvell/skge.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/marvell/skge.ko drivers/net/ethernet/marvell/skge.o drivers/net/ethernet/marvell/skge.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/fmc/fmc-fakedev.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/fmc/fmc-fakedev.ko drivers/fmc/fmc-fakedev.o drivers/fmc/fmc-fakedev.mod.o

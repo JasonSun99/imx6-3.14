@@ -1,0 +1,1 @@
+cmd_sound/pci/ymfpci/snd-ymfpci.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/ymfpci/snd-ymfpci.ko sound/pci/ymfpci/snd-ymfpci.o sound/pci/ymfpci/snd-ymfpci.mod.o

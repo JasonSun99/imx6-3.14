@@ -1,0 +1,1 @@
+cmd_fs/nls/mac-celtic.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o fs/nls/mac-celtic.ko fs/nls/mac-celtic.o fs/nls/mac-celtic.mod.o

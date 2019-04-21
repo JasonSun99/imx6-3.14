@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/interact.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/input/joystick/interact.ko drivers/input/joystick/interact.o drivers/input/joystick/interact.mod.o

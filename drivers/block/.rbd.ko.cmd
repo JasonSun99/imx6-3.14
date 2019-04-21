@@ -1,0 +1,1 @@
+cmd_drivers/block/rbd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/block/rbd.ko drivers/block/rbd.o drivers/block/rbd.mod.o

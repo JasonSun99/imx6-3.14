@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/i6300esb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/watchdog/i6300esb.ko drivers/watchdog/i6300esb.o drivers/watchdog/i6300esb.mod.o

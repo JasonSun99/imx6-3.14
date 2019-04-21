@@ -1,0 +1,1 @@
+cmd_drivers/fmc/fmc-write-eeprom.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/fmc/fmc-write-eeprom.ko drivers/fmc/fmc-write-eeprom.o drivers/fmc/fmc-write-eeprom.mod.o

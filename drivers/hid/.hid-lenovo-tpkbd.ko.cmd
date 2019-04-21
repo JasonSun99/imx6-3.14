@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-lenovo-tpkbd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-lenovo-tpkbd.ko drivers/hid/hid-lenovo-tpkbd.o drivers/hid/hid-lenovo-tpkbd.mod.o

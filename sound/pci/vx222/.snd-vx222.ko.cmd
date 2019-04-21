@@ -1,0 +1,1 @@
+cmd_sound/pci/vx222/snd-vx222.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/vx222/snd-vx222.ko sound/pci/vx222/snd-vx222.o sound/pci/vx222/snd-vx222.mod.o

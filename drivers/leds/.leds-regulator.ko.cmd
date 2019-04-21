@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-regulator.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/leds/leds-regulator.ko drivers/leds/leds-regulator.o drivers/leds/leds-regulator.mod.o

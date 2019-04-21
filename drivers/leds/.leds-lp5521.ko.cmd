@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lp5521.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/leds/leds-lp5521.ko drivers/leds/leds-lp5521.o drivers/leds/leds-lp5521.mod.o

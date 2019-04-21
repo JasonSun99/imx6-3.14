@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/dp83640.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/dp83640.ko drivers/net/phy/dp83640.o drivers/net/phy/dp83640.mod.o

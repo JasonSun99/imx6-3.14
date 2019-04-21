@@ -1,0 +1,1 @@
+cmd_drivers/parport/parport_pc.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/parport/parport_pc.ko drivers/parport/parport_pc.o drivers/parport/parport_pc.mod.o

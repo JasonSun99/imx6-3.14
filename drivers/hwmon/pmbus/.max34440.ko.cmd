@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/max34440.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hwmon/pmbus/max34440.ko drivers/hwmon/pmbus/max34440.o drivers/hwmon/pmbus/max34440.mod.o

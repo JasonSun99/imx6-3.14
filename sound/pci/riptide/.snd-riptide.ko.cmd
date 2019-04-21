@@ -1,0 +1,1 @@
+cmd_sound/pci/riptide/snd-riptide.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o sound/pci/riptide/snd-riptide.ko sound/pci/riptide/snd-riptide.o sound/pci/riptide/snd-riptide.mod.o

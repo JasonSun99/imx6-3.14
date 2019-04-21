@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-roccat-kone.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/hid/hid-roccat-kone.ko drivers/hid/hid-roccat-kone.o drivers/hid/hid-roccat-kone.mod.o

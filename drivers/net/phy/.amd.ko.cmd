@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/amd.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/phy/amd.ko drivers/net/phy/amd.o drivers/net/phy/amd.mod.o

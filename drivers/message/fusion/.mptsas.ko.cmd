@@ -1,0 +1,1 @@
+cmd_drivers/message/fusion/mptsas.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/message/fusion/mptsas.ko drivers/message/fusion/mptsas.o drivers/message/fusion/mptsas.mod.o

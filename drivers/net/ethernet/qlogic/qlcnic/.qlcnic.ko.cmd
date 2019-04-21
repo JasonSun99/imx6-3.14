@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/qlogic/qlcnic/qlcnic.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/qlogic/qlcnic/qlcnic.ko drivers/net/ethernet/qlogic/qlcnic/qlcnic.o drivers/net/ethernet/qlogic/qlcnic/qlcnic.mod.o

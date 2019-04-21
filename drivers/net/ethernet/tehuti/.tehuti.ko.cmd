@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/tehuti/tehuti.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/tehuti/tehuti.ko drivers/net/ethernet/tehuti/tehuti.o drivers/net/ethernet/tehuti/tehuti.mod.o

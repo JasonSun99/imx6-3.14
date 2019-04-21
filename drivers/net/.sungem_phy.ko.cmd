@@ -1,0 +1,1 @@
+cmd_drivers/net/sungem_phy.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/sungem_phy.ko drivers/net/sungem_phy.o drivers/net/sungem_phy.mod.o

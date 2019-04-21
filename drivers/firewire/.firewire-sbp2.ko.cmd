@@ -1,0 +1,1 @@
+cmd_drivers/firewire/firewire-sbp2.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/firewire/firewire-sbp2.ko drivers/firewire/firewire-sbp2.o drivers/firewire/firewire-sbp2.mod.o

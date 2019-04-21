@@ -1,0 +1,1 @@
+cmd_drivers/infiniband/core/ib_ucm.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/infiniband/core/ib_ucm.ko drivers/infiniband/core/ib_ucm.o drivers/infiniband/core/ib_ucm.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/nfc/pn544/pn544.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/nfc/pn544/pn544.ko drivers/nfc/pn544/pn544.o drivers/nfc/pn544/pn544.mod.o

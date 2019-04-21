@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_hpt3x2n.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_hpt3x2n.ko drivers/ata/pata_hpt3x2n.o drivers/ata/pata_hpt3x2n.mod.o

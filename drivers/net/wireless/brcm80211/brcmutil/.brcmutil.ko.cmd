@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/brcm80211/brcmutil/brcmutil.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/wireless/brcm80211/brcmutil/brcmutil.ko drivers/net/wireless/brcm80211/brcmutil/brcmutil.o drivers/net/wireless/brcm80211/brcmutil/brcmutil.mod.o

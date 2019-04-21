@@ -1,0 +1,1 @@
+cmd_drivers/ata/pata_ns87410.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/ata/pata_ns87410.ko drivers/ata/pata_ns87410.o drivers/ata/pata_ns87410.mod.o

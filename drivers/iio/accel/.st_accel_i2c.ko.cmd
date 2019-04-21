@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/st_accel_i2c.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/iio/accel/st_accel_i2c.ko drivers/iio/accel/st_accel_i2c.o drivers/iio/accel/st_accel_i2c.mod.o

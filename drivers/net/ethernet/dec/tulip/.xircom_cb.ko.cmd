@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/dec/tulip/xircom_cb.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/study/imx-linux/SolidRun/linux-fslc/scripts/module-common.lds --build-id  -o drivers/net/ethernet/dec/tulip/xircom_cb.ko drivers/net/ethernet/dec/tulip/xircom_cb.o drivers/net/ethernet/dec/tulip/xircom_cb.mod.o
